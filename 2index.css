@@ -1,0 +1,19 @@
+body h1{
+    text-align: center;
+}
+
+body form{
+    display: flex;
+    justify-content: center;
+    border-color: #87de8d;
+}
+.table tr td{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.table{
+    width: 50%;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #87de8d;
+}
